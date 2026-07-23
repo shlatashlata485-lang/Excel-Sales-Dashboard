@@ -11,6 +11,7 @@ How are sales changing over time?
 Instead of reviewing raw spreadsheets, management needed a simple dashboard to support data-driven decision making.
 MySolution
 I built an interactive Excel dashboard using Pivot Tables, Pivot Charts, and KPI cards that summarizes business performance into one screen.
+<img src="Imagine.png" width="65">
 The dashboard includes:
 Total Sales
 Total Orders
